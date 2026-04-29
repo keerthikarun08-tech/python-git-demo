@@ -1,4 +1,5 @@
 def greet(name):
     return f"Hello, {name}!"
 
-print(greet("Keerthi"))
+name = input("Enter your name: ")
+print(greet(name))
