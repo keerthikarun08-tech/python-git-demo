@@ -6,3 +6,4 @@ def greet(name):
 name = input("Enter your name: ")
 print(greet(name))
 print("Welcome to Git Demo Project")
+print("Updated from GitHub")
